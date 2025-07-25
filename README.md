@@ -64,6 +64,8 @@ To run the unit tests you will have to install [PyTorch](https://pytorch.org/), 
 python -m pytest
 ```
 
+![MLP](MLP.png)
+
 ### License
 
 MIT
